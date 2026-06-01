@@ -1,4 +1,4 @@
-# COMPUTER SECURITY Project
+# COMPUTER SECURITY PROJECT
 
 ##  Project Overview
 This project demonstrates image encryption and decryption using an LFSR (Linear Feedback Shift Register) algorithm with Confusion and Diffusion techniques.
